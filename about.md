@@ -8,13 +8,15 @@ hide_description: true
 redirect_from:
   - /download/
 ---
-<a href="{{page.url}}" id="theme-toggle" onclick="modeSwitcher()" style="cursor: pointer;"></a>
+
 
 # About
 
 <!--author-->
 
 ## Hydejack
+
+<a id="theme-toggle" onclick="modeSwitcher()" style="cursor: pointer;">Test</a>
 
 A boutique Jekyll theme for hackers, nerds, and academics.  
 {:.lead}
