@@ -8,6 +8,7 @@ hide_description: true
 redirect_from:
   - /download/
 ---
+<a href="{{page.url}}" id="theme-toggle" onclick="modeSwitcher()" style="cursor: pointer;"></a>
 
 # About
 
