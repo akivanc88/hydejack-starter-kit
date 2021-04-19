@@ -1,18 +1,3 @@
-.dl-table {
-  a {
-    @supports ((text-decoration-thickness: initial) and (text-underline-offset: initial)) {
-      text-underline-offset: .8rem;
-    }
-    @supports not ((text-decoration-thickness: initial) and (text-underline-offset: initial)) {
-      padding-bottom: .45rem;
-    }
-  }
-
-  .btn, .gumroad-button  {
-    margin: 1rem 0;
-  }
-}
-
 html, html[data-theme="light"] {
 	--link-color: rgb(0, 112, 201);
   --main-background-color: hsl(0, 0%, 90%);
