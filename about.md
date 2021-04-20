@@ -16,8 +16,6 @@ redirect_from:
 
 ## Hydejack
 
-<a id="theme-toggle" onclick="modeSwitcher()" style="cursor: pointer;">Test</a>
-
 A boutique Jekyll theme for hackers, nerds, and academics.  
 {:.lead}
 
