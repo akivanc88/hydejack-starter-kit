@@ -1,18 +1,56 @@
-.dl-table {
-  a {
-    @supports ((text-decoration-thickness: initial) and (text-underline-offset: initial)) {
-      text-underline-offset: .8rem;
-    }
-    @supports not ((text-decoration-thickness: initial) and (text-underline-offset: initial)) {
-      padding-bottom: .45rem;
-    }
-  }
-
-  .btn, .gumroad-button  {
-    margin: 1rem 0;
-  }
+html, html[data-theme="light"] {
+	--link-color: rgb(0, 112, 201);
+  --main-background-color: hsl(0, 0%, 90%);
+  --main-text-color: hsl(0, 0%, 20%);
 }
 
+html[data-theme="dark"] {
+  --link-color: rgb(199, 199, 204);
+  --main-background-color: rgb(35,16,56);
+  --main-text-color: rgb(199, 199, 204); 
+}
+
+
+@media (prefers-color-scheme: dark) {
+    html, html[data-theme="dark"] {
+      --link-color: rgb(199, 199, 204);
+    	--main-background-color: rgb(35,16,56);
+    	--main-text-color: rgb(199, 199, 204); 
+    }
+
+    html[data-theme="light"] {
+		  --link-color: rgb(0, 112, 201);
+    	--main-background-color: hsl(0, 0%, 90%);
+  	 --main-text-color: hsl(0, 0%, 20%);
+  } 
+}
+
+
 body {
-background-color: #121212;
+	background-color: var(--main-background-color);
+	color: var(--main-text-color);
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+	padding: 1em;
+}
+
+a {
+	color: var(--link-color);	
+}
+article {
+	max-width: 650px; 
+	margin: 2em auto;
+}
+
+
+h1 {
+	font-size: 2rem;
+}
+
+h2 {
+	font-size: 1.5rem;
+	margin-top: 2em;
+}
+
+p {
+	font-size: 1.25rem;
 }
