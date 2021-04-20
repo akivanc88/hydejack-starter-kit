@@ -5,7 +5,7 @@ html, html[data-theme="light"] {
 }
 
 html[data-theme="dark"] {
-  --link-color: rgb( 100, 210, 255);
+  --link-color: rgb(199, 199, 204);
   --main-background-color: rgb(35,16,56);
   --main-text-color: hsl(0, 0%, 85%); 
 }
@@ -13,7 +13,7 @@ html[data-theme="dark"] {
 
 @media (prefers-color-scheme: dark) {
     html, html[data-theme="dark"] {
-      --link-color: rgb( 100, 210, 255);
+      --link-color: rgb(199, 199, 204);
     	--main-background-color: rgb(35,16,56);
     	--main-text-color: hsl(0, 0%, 85%); 
     }
