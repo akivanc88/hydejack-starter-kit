@@ -22,7 +22,7 @@ Things are always moving but we would like to be transparent with our customers.
 1. this list will be replaced by the toc
 {:toc .large-only}
 
-![Screenshot](assets/img/about/squat.jpeg){:.lead width="1920" height="1080" loading="lazy"}
+![Screenshot](assets/img/about/squat.jpg){:.lead width="1920" height="1080" loading="lazy"}
 
 We cover a variety of workout scenarios.
 {:.figcaption}

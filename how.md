@@ -10,27 +10,24 @@ redirect_from:
 ---
 
 
-# About
+# How we do it
 
-<!--author-->
+## You + Us
 
-## Hydejack
-
-A boutique Jekyll theme for hackers, nerds, and academics.  
+How do I start?  
 {:.lead}
 
-1. this list will be replaced by the toc
-{:toc .large-only}
+1. Create an account on our app
 
-![Screenshot](assets/img/blog/hydejack-9.jpg){:.lead width="1920" height="1080" loading="lazy"}
+2. Follow our curated RHF-Athletes and their curated contents for a healthier lifestyle
 
-Hydejack's cover page on a variety of screen sizes.
-{:.figcaption}
+3. Create personal milestones and set a financial target for yourself
 
+4. Upload consistent proof of work/effort
 
-**Hydejack** is a boutique Jekyll theme for hackers, nerds, and academics, with a focus on personal sites that are meant to impress. 
+5. Earn crowdsourced donations towards your milestone
 
-It includes a blog that is suitable for both prose and technical documentation, a portfolio to showcase your projects, and a resume template that looks amazing on the web and in print.
+6. Repeat
 
 > Your complete presence on the web — A [blog], [portfolio], and [resume].
 {:.lead}

@@ -7,7 +7,7 @@ author1:
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
-  whatwedo:
+  about:
     Test Aiming to redefine "fitness" for the new generation.
     Established in COVID-era 2020, RemoteHomeFit is trying to change the face of online fitness industry forever.
     
