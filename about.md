@@ -14,17 +14,17 @@ redirect_from:
 
 <!--author-->
 
-## Hydejack
+## Our Roadmap
 
-A boutique Jekyll theme for hackers, nerds, and academics.  
+Things are always moving but we would like to be transparent with our customers.  
 {:.lead}
 
 1. this list will be replaced by the toc
 {:toc .large-only}
 
-![Screenshot](assets/img/blog/hydejack-9.jpg){:.lead width="1920" height="1080" loading="lazy"}
+![Screenshot](assets/img/about/squat.jpeg){:.lead width="1920" height="1080" loading="lazy"}
 
-Hydejack's cover page on a variety of screen sizes.
+We cover a variety of workout scenarios.
 {:.figcaption}
 
 

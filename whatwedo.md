@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: whatwedo
 image: /assets/img/blog/hydejack-9.jpg
 description: >
   A boutique Jekyll theme for hackers, nerds, and academics,
@@ -10,9 +10,9 @@ redirect_from:
 ---
 
 
-# About
+# What We Do
 
-<!--author-->
+<!--whatwedo-->
 
 ## Hydejack
 
