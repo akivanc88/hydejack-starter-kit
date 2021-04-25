@@ -27,14 +27,21 @@ Things are always moving but we would like to be transparent with our customers.
 We cover a variety of workout scenarios.
 {:.figcaption}
 
+### Now
 
-**Hydejack** is a boutique Jekyll theme for hackers, nerds, and academics, with a focus on personal sites that are meant to impress. 
-
-It includes a blog that is suitable for both prose and technical documentation, a portfolio to showcase your projects, and a resume template that looks amazing on the web and in print.
-
-> Your complete presence on the web — A [blog], [portfolio], and [resume].
+> Android App Early Access.
+{:.lead}
+> IOS App Early Access.
 {:.lead}
 
+### Next
+
+> Community Feedback
+{:.lead}
+> Matching Donation Program
+{:.lead}
+> Promotional Content + Analytics
+{:.lead}
 
 ## A Personal Site That Won't Disappear
 
