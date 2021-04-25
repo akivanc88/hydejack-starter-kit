@@ -49,9 +49,9 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             What we Do
-    url:               /example/
+    url:               /whatwedo/
   - title:             How we Do it
-    url:               /docs/
+    url:               /how/
   - title:             Who we Are
     url:               /about/
 
