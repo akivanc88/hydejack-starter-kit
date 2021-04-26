@@ -12,8 +12,6 @@ redirect_from:
 
 # About
 
-<!--author-->
-
  Aiming to redefine "fitness" for the new generation.
  Established in COVID-era 2020, RemoteHomeFit is trying to change the face of online fitness industry forever.
 
