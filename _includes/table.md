@@ -7,10 +7,7 @@
 |                                         | <strong class="new-price">Its a state of mind and making constant decision </strong>|
 | Fitness can be anywhere                 |                                                  |
 |                                         | <strong class="new-price">As long and you're motivated and put in the work </strong> |
-| __Price__                     | __Free__            | <span class="price"><del>$99</del> <strong class="new-price">$69</strong> <small>One-Time Payment</small></span> [^22] |
 |===============================+=====================+=====================|
-data-gumroad-single-product="true"} |
-{:.stretch-table.dl-table}
 
 <script type="module">
   document.querySelectorAll('a[href="#_search-input"]').forEach(el => {
